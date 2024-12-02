@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateProject", "Template
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_01_Historian_Hysteria", "Day_01_Historian_Hysteria\Day_01_Historian_Hysteria.csproj", "{3D855FCC-9659-4642-ACFD-572507CAFEBA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_02_Red-Nosed_Reports", "Day_02_Red-Nosed_Reports\Day_02_Red-Nosed_Reports.csproj", "{BADB3213-CEA0-4D09-AB32-6982C05D42A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3D855FCC-9659-4642-ACFD-572507CAFEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D855FCC-9659-4642-ACFD-572507CAFEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D855FCC-9659-4642-ACFD-572507CAFEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADB3213-CEA0-4D09-AB32-6982C05D42A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADB3213-CEA0-4D09-AB32-6982C05D42A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADB3213-CEA0-4D09-AB32-6982C05D42A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADB3213-CEA0-4D09-AB32-6982C05D42A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

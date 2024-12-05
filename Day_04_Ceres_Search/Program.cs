@@ -26,13 +26,13 @@ void P1()
             List<(int, int)> directions = new() { (1, 0), (1, 1), (0, 1), (-1, 1), (-1, 0), (-1, -1), (0, -1), (1, -1) };
             foreach ((int dx, int dy) in directions)
             {
-                int furthestX = x + (3 * dx);
-                int furthestY = y + (3 * dy);
+                const string pattern = "XMAS";
+                int furthestX = x + ((pattern.Length - 1) * dx);
+                int furthestY = y + ((pattern.Length - 1) * dy);
                 if (furthestX >= 0 && furthestX < inputList[y].Length &&
                     furthestY >= 0 && furthestY < inputList.Count)
                 {
                     bool matches = true;
-                    const string pattern = "XMAS";
                     for (int i = 0; i < pattern.Length; i++)
                     {
                         int iterX = x + (i * dx);
@@ -64,7 +64,7 @@ void P2()
         {
             if (grid[y][x] == 'A')
             {
-                if ((grid[y - 1][x-1] == 'M' && grid[y + 1][x + 1] == 'S') ||
+                if ((grid[y - 1][x - 1] == 'M' && grid[y + 1][x + 1] == 'S') ||
                     (grid[y - 1][x - 1] == 'S' && grid[y + 1][x + 1] == 'M'))
                 {
                     if ((grid[y - 1][x + 1] == 'M' && grid[y + 1][x - 1] == 'S') ||

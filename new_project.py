@@ -15,8 +15,11 @@ def download_input(url, dst_input):
     input_url = f"{url}/input"
     print(f"Downloading contents for `{dst_input}` from `{input_url}`")
     try:
+        headers = {
+            "User-Agent": "github.com/Richard-CRT - Only serves to download input (once) to local machine",
+        }
         cj = browser_cookie3.firefox(domain_name='adventofcode.com')
-        resp = requests.get(input_url, cookies=cj)
+        resp = requests.get(input_url, headers=headers, cookies=cj)
     except Exception as err:
         print(f"Error downloading input from `{input_url}`, contents not written to `{dst_input}`")
         raise

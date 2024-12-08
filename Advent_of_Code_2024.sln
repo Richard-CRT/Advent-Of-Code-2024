@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_06_Guard_Gallivant", "D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_07_Bridge_Repair", "Day_07_Bridge_Repair\Day_07_Bridge_Repair.csproj", "{F2753815-7730-484D-960A-60D63F138A66}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_08_Resonant_Collinearity", "Day_08_Resonant_Collinearity\Day_08_Resonant_Collinearity.csproj", "{9563D197-2CAE-4182-B74D-817B4FC3DF91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F2753815-7730-484D-960A-60D63F138A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2753815-7730-484D-960A-60D63F138A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2753815-7730-484D-960A-60D63F138A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9563D197-2CAE-4182-B74D-817B4FC3DF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9563D197-2CAE-4182-B74D-817B4FC3DF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9563D197-2CAE-4182-B74D-817B4FC3DF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9563D197-2CAE-4182-B74D-817B4FC3DF91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

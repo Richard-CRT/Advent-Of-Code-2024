@@ -49,7 +49,7 @@ void P1()
 
     for (int i = 1; i <= lastFilledIndex; i++)
     {
-        result += i * blocksP1[i];
+        result += (Int64)i * (Int64)blocksP1[i];
     }
 
     Console.WriteLine(result);
@@ -93,7 +93,7 @@ void P2()
     for (int i = 1; i < blocksP2.Count; i++)
     {
         if (blocksP2[i] != -1)
-            result += i * blocksP2[i];
+            result += (Int64)i * (Int64)blocksP2[i];
     }
 
     Console.WriteLine(result);

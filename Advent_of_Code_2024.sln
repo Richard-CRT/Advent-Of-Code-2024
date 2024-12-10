@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_08_Resonant_Collinearit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_09_Disk_Fragmenter", "Day_09_Disk_Fragmenter\Day_09_Disk_Fragmenter.csproj", "{2838D189-17C5-42DC-81C0-B27C42DF2AEA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_10_Hoof_It", "Day_10_Hoof_It\Day_10_Hoof_It.csproj", "{6758577F-C936-4378-9E92-FF4B49B8DA78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{2838D189-17C5-42DC-81C0-B27C42DF2AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2838D189-17C5-42DC-81C0-B27C42DF2AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2838D189-17C5-42DC-81C0-B27C42DF2AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6758577F-C936-4378-9E92-FF4B49B8DA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6758577F-C936-4378-9E92-FF4B49B8DA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6758577F-C936-4378-9E92-FF4B49B8DA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6758577F-C936-4378-9E92-FF4B49B8DA78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

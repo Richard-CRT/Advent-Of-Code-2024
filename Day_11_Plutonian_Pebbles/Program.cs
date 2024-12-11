@@ -68,7 +68,6 @@ void P1()
     Console.ReadLine();
 }
 
-int cacheHits = 0;
 Dictionary<(Int64, int), Int64> CacheIntAndNumBlinksToNumStones = new();
 Int64 IntAndNumBlinksToNumStones(Int64 input, int numBlinks)
 {

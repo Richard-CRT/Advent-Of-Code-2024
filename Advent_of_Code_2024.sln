@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_09_Disk_Fragmenter", "D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_10_Hoof_It", "Day_10_Hoof_It\Day_10_Hoof_It.csproj", "{6758577F-C936-4378-9E92-FF4B49B8DA78}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_11_Plutonian_Pebbles", "Day_11_Plutonian_Pebbles\Day_11_Plutonian_Pebbles.csproj", "{71CA4381-32E4-4858-A653-E0A564E6E34B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{6758577F-C936-4378-9E92-FF4B49B8DA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6758577F-C936-4378-9E92-FF4B49B8DA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6758577F-C936-4378-9E92-FF4B49B8DA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71CA4381-32E4-4858-A653-E0A564E6E34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CA4381-32E4-4858-A653-E0A564E6E34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CA4381-32E4-4858-A653-E0A564E6E34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CA4381-32E4-4858-A653-E0A564E6E34B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_11_Plutonian_Pebbles", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_12_Garden_Groups", "Day_12_Garden_Groups\Day_12_Garden_Groups.csproj", "{096CDB77-42F6-4CEA-99E3-4862E3615230}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_13_Claw_Contraption", "Day_13_Claw_Contraption\Day_13_Claw_Contraption.csproj", "{971C6CA4-C6B8-4132-B905-A9AB45A34DE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{096CDB77-42F6-4CEA-99E3-4862E3615230}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{096CDB77-42F6-4CEA-99E3-4862E3615230}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{096CDB77-42F6-4CEA-99E3-4862E3615230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971C6CA4-C6B8-4132-B905-A9AB45A34DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971C6CA4-C6B8-4132-B905-A9AB45A34DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971C6CA4-C6B8-4132-B905-A9AB45A34DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971C6CA4-C6B8-4132-B905-A9AB45A34DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

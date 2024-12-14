@@ -7,6 +7,11 @@ using System.Text.RegularExpressions;
 
 namespace AdventOfCodeUtilities
 {
+    // Way to disable warnings in code, e.g. CS8321 (function declared but never used)
+    // #pragma warning disable 8321
+    // <function>
+    // #pragma warning restore 8321
+
     // Useful characters for debug and visualisation
     // ┘ ┐ └ ┌ │ ─ 
     // ┤ ┴ ├ ┬ ┼

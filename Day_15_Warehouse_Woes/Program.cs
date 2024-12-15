@@ -225,6 +225,7 @@ void P2()
                                 // If a space in front of part of a box is empty, great, no need to run any further checks from that spot
                             }
                         }
+                        // Need to do Distinct as the above code can cause duplicates to be added
                         coordinatesThatNeedToBeEmpty = newCoordinatesThatNeedToBeEmpty.Distinct().ToList();
                     }
                 }
@@ -235,6 +236,7 @@ void P2()
             robotLocation = proposedRobotLocation;
             if (coordsToMove.Count > 0)
             {
+                // Need to do Distinct as the above code can cause duplicates to be added
                 coordsToMove = coordsToMove.Distinct().ToList();
                 coordsToMove.Reverse();
                 foreach (var coordToMove in coordsToMove)

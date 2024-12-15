@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_13_Claw_Contraption", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_14_Restroom_Redoubt", "Day_14_Restroom_Redoubt\Day_14_Restroom_Redoubt.csproj", "{C9D2F3A1-80BA-4390-B1DE-F03FECA0C498}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_15_Warehouse_Woes", "Day_15_Warehouse_Woes\Day_15_Warehouse_Woes.csproj", "{D0DE636C-45BA-4616-8E17-512201E35C8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{C9D2F3A1-80BA-4390-B1DE-F03FECA0C498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9D2F3A1-80BA-4390-B1DE-F03FECA0C498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9D2F3A1-80BA-4390-B1DE-F03FECA0C498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DE636C-45BA-4616-8E17-512201E35C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DE636C-45BA-4616-8E17-512201E35C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DE636C-45BA-4616-8E17-512201E35C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DE636C-45BA-4616-8E17-512201E35C8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

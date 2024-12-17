@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_15_Warehouse_Woes", "Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_16_Reindeer_Maze", "Day_16_Reindeer_Maze\Day_16_Reindeer_Maze.csproj", "{BEEFF3DB-BF09-4496-9F49-F7FAA3DF6E37}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_17_Chronospatial_Computer", "Day_17_Chronospatial_Computer\Day_17_Chronospatial_Computer.csproj", "{DFAE4913-98A6-43C6-BE76-59A611A96379}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{BEEFF3DB-BF09-4496-9F49-F7FAA3DF6E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEEFF3DB-BF09-4496-9F49-F7FAA3DF6E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEEFF3DB-BF09-4496-9F49-F7FAA3DF6E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFAE4913-98A6-43C6-BE76-59A611A96379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFAE4913-98A6-43C6-BE76-59A611A96379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFAE4913-98A6-43C6-BE76-59A611A96379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFAE4913-98A6-43C6-BE76-59A611A96379}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

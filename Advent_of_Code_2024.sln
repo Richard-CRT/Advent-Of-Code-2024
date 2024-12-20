@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_18_RAM_Run", "Day_18_RA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_19_Linen_Layout", "Day_19_Linen_Layout\Day_19_Linen_Layout.csproj", "{1147638E-7D00-454F-AE88-740E7C540E8B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_20_Race_Condition", "Day_20_Race_Condition\Day_20_Race_Condition.csproj", "{2CC74E5D-3C3E-464F-A0C6-433EC2605295}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{1147638E-7D00-454F-AE88-740E7C540E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1147638E-7D00-454F-AE88-740E7C540E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1147638E-7D00-454F-AE88-740E7C540E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC74E5D-3C3E-464F-A0C6-433EC2605295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC74E5D-3C3E-464F-A0C6-433EC2605295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC74E5D-3C3E-464F-A0C6-433EC2605295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC74E5D-3C3E-464F-A0C6-433EC2605295}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

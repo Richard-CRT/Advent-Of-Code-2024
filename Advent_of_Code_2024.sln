@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_19_Linen_Layout", "Day_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_20_Race_Condition", "Day_20_Race_Condition\Day_20_Race_Condition.csproj", "{2CC74E5D-3C3E-464F-A0C6-433EC2605295}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_21_Keypad_Conundrum", "Day_21_Keypad_Conundrum\Day_21_Keypad_Conundrum.csproj", "{19297616-3C79-4C3B-B335-6DB9E87F7FC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{2CC74E5D-3C3E-464F-A0C6-433EC2605295}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CC74E5D-3C3E-464F-A0C6-433EC2605295}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CC74E5D-3C3E-464F-A0C6-433EC2605295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19297616-3C79-4C3B-B335-6DB9E87F7FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19297616-3C79-4C3B-B335-6DB9E87F7FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19297616-3C79-4C3B-B335-6DB9E87F7FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19297616-3C79-4C3B-B335-6DB9E87F7FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

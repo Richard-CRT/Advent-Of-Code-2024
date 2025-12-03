@@ -55,6 +55,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_23_LAN_Party", "Day_23_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_24_Crossed_Wires", "Day_24_Crossed_Wires\Day_24_Crossed_Wires.csproj", "{45FD3B3A-6998-4E90-9A79-19F868402A4A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_25_Code_Chronicle", "Day_25_Code_Chronicle\Day_25_Code_Chronicle.csproj", "{11973BAA-BA99-4634-B565-9E33AD4619F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{45FD3B3A-6998-4E90-9A79-19F868402A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45FD3B3A-6998-4E90-9A79-19F868402A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45FD3B3A-6998-4E90-9A79-19F868402A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11973BAA-BA99-4634-B565-9E33AD4619F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11973BAA-BA99-4634-B565-9E33AD4619F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11973BAA-BA99-4634-B565-9E33AD4619F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11973BAA-BA99-4634-B565-9E33AD4619F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_21_Keypad_Conundrum", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_22_Monkey_Market", "Day_22_Monkey_Market\Day_22_Monkey_Market.csproj", "{58CB9C5C-057C-49F9-A32C-70E559E91BFE}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_23_LAN_Party", "Day_23_LAN_Party\Day_23_LAN_Party.csproj", "{666A5E4E-241E-4823-BBA9-98C5E7890E2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{58CB9C5C-057C-49F9-A32C-70E559E91BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58CB9C5C-057C-49F9-A32C-70E559E91BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58CB9C5C-057C-49F9-A32C-70E559E91BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666A5E4E-241E-4823-BBA9-98C5E7890E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666A5E4E-241E-4823-BBA9-98C5E7890E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666A5E4E-241E-4823-BBA9-98C5E7890E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666A5E4E-241E-4823-BBA9-98C5E7890E2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
